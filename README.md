@@ -29,7 +29,7 @@ The website interface is displayed in the original language.
 
 1. Start by cloning the project from GitHub using the following git clone command:
 <pre>
-git clone [repository_url]
+git clone https://github.com/Vgryadushkin/multilingual-wikipedia-test.git
 </pre>
 2. In the root directory, create a file named .env and enter valid authentication data using the environment variables WIKIUSERNAME and WIKIPASSWORD. Provide an example:
 <pre>
