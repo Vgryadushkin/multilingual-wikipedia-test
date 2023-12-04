@@ -11,10 +11,15 @@ The user is already authenticated in the Wikipedia system.
 The user is on the homepage of the website.
 
 Execution Steps:
+
 1.The user clicks on the "Preferences" link in the top menu.
+
 2.The system redirects the user to the settings page.
+
 3.On the "User profile" tab in the "Internationalisation" section, the user selects a different language for the interface from the available options.
+
 4.The user clicks the "Save" button, confirming the language change.
+
 5.The system displays a message about the successful language change and updates the website interface.
 
 Verifications:
